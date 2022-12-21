@@ -14,7 +14,7 @@ local Translations = {
         busstop_text = '[E] Busshållplats',
         bus_plate = 'BUSS', -- Can be 3 or 4 characters long (uses random 4 digits)
         bus_depot = 'Bussdepå',
-        bus_stop_work = '[E] Sluta arbeta,
+        bus_stop_work = '[E] Sluta arbeta',
         bus_job_vehicles = '[E] Arbetsfordon'
     },
     menu = {
